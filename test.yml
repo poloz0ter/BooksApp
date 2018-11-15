@@ -1,7 +1,7 @@
 ---
 Old Borov: !ruby/object:Movie
   title: Old Borov
-  director: Glad Valacas
+  director: Ronny James
   year: 2007
 Star Boy 3: !ruby/object:Movie
   title: Star Boy 3

@@ -5,7 +5,7 @@ store = YAML::Store.new('test.yml')
 
 first_movie = Movie.new
 first_movie.title = 'Old Borov'
-first_movie.director = 'Glad Valacas'
+first_movie.director = 'Ronny James'
 first_movie.year = 2007
 
 second_movie = Movie.new
